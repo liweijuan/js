@@ -2,20 +2,20 @@
 body{margin-left:200px;}
 	#banner{
 		width:1080px;height:150px;
-		background-image:url(E:/伟娟/大作业/images/xl2.png);
+		background-image:url(../images/xl2.png);
 		background-size:100% 100%;
 	}
 	#top{
 		width:1080px;height:1000px;
-		background-image:url(E:/伟娟/大作业/images/5f2.jpg);
+		background-image:url(../images/5f2.jpg);
 		background-size:100% 100%;
 	}
 	#a{
 		width:1080px;height:30px;
-		background-image:url(E:/伟娟/大作业/images/b2.jpg.gif);
+		background-image:url(../images/b2.jpg.gif);
 	}
 	#aa{
-		background-image:url(E:/伟娟/大作业/images/fg2.jpg);
+		background-image:url(../images/fg2.jpg);
 		background-size:100% 100%;
 		width:1080px;height:60px;
 		text-align:center;
